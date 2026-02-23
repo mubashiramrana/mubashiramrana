@@ -1,12 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Mubashir%20Maqbool&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<!-- Animated Typing Name -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Mubashir+Maqbool;Full+Stack+Developer;Angular+%7C+Node.js+%7C+Databases" />
+</p>
 
-# 👋 Hi, I'm Mubashir Maqbool
+<!-- Custom Gradient Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656986-5c4c6b5b-3e64-4c87-b7bb-57c4b1f5c89f.gif" width="100%" />
+</p>
 
-💻 Full Stack Developer  
-⚙️ Angular • Node.js • MySQL • MongoDB  
-🚀 Building scalable, maintainable, real-world applications
+<h3 align="center">⚡ Building Structured & Scalable Web Applications</h3>
 
----
+<p align="center">
+  Angular • Node.js • MySQL • MongoDB
+</p>
 
 ## 🧠 About Me
 
@@ -42,9 +48,9 @@ I focus on:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mubashiramrana&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mubashiramrana&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
