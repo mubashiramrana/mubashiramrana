@@ -1,11 +1,11 @@
 <!-- Animated Gradient Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Mubashir%20Maqbool&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5E6A3,100:F0D060&height=200&section=header&text=Mubashir%20Maqbool&fontSize=60&fontColor=333333&animation=fadeIn" width="100%"/>
 </div>
 
 <!-- Animated Typing Name -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Mubashir+Maqbool;Full+Stack+Developer;Angular+%7C+Node.js+%7C+Databases" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=D4A017&center=true&vCenter=true&width=800&lines=Mubashir+Maqbool;Full+Stack+Developer;Angular+%7C+Node.js+%7C+Databases" />
 </p>
 
 <!-- Animated Gradient Divider -->
@@ -24,7 +24,7 @@
 
 <!-- Glowing Line -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=Clean+Code+|+Scalable+Systems+|+Modern+Architecture" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=D4A017&center=true&vCenter=true&width=600&lines=Clean+Code+|+Scalable+Systems+|+Modern+Architecture" />
 </p>
 
 ---
@@ -76,13 +76,13 @@ I specialize in developing **clean, scalable, and production-ready web applicati
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mubashiramrana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mubashiramrana&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mubashiramrana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=FEF8E3&title_color=D4A017&icon_color=D4A017&text_color=333333" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mubashiramrana&theme=tokyonight&hide_border=true&background=FEF8E3&stroke=D4A017&ring=D4A017&fire=D4A017&currStreakLabel=D4A017&sideLabels=333333&dates=333333" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubashiramrana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=mubashiramrana&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubashiramrana&layout=compact&theme=tokyonight&hide_border=true&bg_color=FEF8E3&title_color=D4A017&text_color=333333" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=mubashiramrana&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=15&margin-h=15&bg_color=FEF8E3&title_color=D4A017&text_color=333333" />
 </div>
 
 ---
@@ -90,7 +90,7 @@ I specialize in developing **clean, scalable, and production-ready web applicati
 ## 🔥 What I Focus On
 
 <div align="center">
-  <table>
+  <table style="background-color: #FEF8E3; border-radius: 10px; padding: 10px;">
     <tr>
       <td><b>📐 Scalable Angular Architecture</b></td>
       <td><b>🧱 Modular Backend Design</b></td>
@@ -102,7 +102,7 @@ I specialize in developing **clean, scalable, and production-ready web applicati
     <tr>
       <td colspan="2" align="center"><b>🛠 Real-world business applications</b></td>
     </tr>
-  </table>
+   </table>
 </div>
 
 ---
@@ -110,7 +110,7 @@ I specialize in developing **clean, scalable, and production-ready web applicati
 ## 💡 Development Philosophy
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Write+clean+code.;Design+scalable+systems.;Keep+architecture+simple+and+powerful." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=D4A017&center=true&vCenter=true&width=800&lines=Write+clean+code.;Design+scalable+systems.;Keep+architecture+simple+and+powerful." />
 </div>
 
 ---
@@ -132,9 +132,9 @@ I specialize in developing **clean, scalable, and production-ready web applicati
 ---
 
 <!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5E6A3,100:F0D060&height=120&section=footer"/>
 
 <!-- Visitor Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mubashiramrana&style=for-the-badge&color=00F7FF" />
+  <img src="https://komarev.com/ghpvc/?username=mubashiramrana&style=for-the-badge&color=D4A017" />
 </div>
