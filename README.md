@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/mubashiramrana">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=D4A017&center=true&vCenter=true&width=720&lines=Building+scalable+web+apps+with+Angular+%26+Node.js;Multi-tenant+SaaS+%E2%80%A2+Clean+architecture;Offline+OCR+%26+self-hosted+LLMs+on+NVIDIA+GPUs" alt="Typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=D4A017&center=true&vCenter=true&width=720&lines=Building+scalable+web+apps+with+Angular+%26+Node.js;Multi-tenant+SaaS+%E2%80%A2+Clean+architecture;" alt="Typing intro"/>
   </a>
 </p>
 
